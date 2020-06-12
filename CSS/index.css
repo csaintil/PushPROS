@@ -1,0 +1,17 @@
+.button{
+    text-align: end;
+}
+.q {
+  border-bottom: 1.5px solid black;
+}
+h1 {
+  text-align: center;
+}
+.name_Url {
+  display: flex;
+  justify-content: space-evenly;
+}
+#person_id {
+  position: absolute;
+}
+
